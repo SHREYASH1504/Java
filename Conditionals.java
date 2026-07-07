@@ -47,7 +47,7 @@ public class Conditionals {
 
         // Ternary Operator
         int streak = 35;
-        String status = (streak >= 30) ? "Consistent" : "Inconsistent"; 
+        Strings status = (streak >= 30) ? "Consistent" : "Inconsistent"; 
         System.out.println(status);
 
         // Switch Statement
